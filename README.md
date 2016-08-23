@@ -1,1 +1,1 @@
-# Labview
+# LabView Training
